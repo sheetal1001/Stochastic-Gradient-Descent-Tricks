@@ -1,6 +1,7 @@
-# Stochastic Gradient Descent Tricks (Bottou, 2012) 🚀
+# Stochastic Gradient Descent Tricks (Bottou, 2012)
+Academic Context: This project was developed as part of the 3rd-year Machine Learning Course and Lab curriculum (2022) during my B.Tech.
 
-This repository contains a Python implementation (from-scratch) of the highly optimized Machine Learning algorithms detailed in Léon Bottou’s foundational 2012 paper, **"Stochastic Gradient Descent Tricks"** (included in this repository as `tricks-2012.pdf`). 
+This repository contains a Python implementation (from-scratch) of the highly optimized Machine Learning algorithms detailed in Léon Bottou’s foundational 2012 paper, **"Stochastic Gradient Descent Tricks"** (included in this repository as tricks-2012.pdf). 
 
 The objective of this project is to demonstrate how applying specific mathematical and engineering "tricks" can transform standard Stochastic Gradient Descent (SGD) from a noisy, slow algorithm into an incredibly fast, highly scalable optimizer for massive, sparse datasets.
 
